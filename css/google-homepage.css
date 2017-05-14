@@ -1,5 +1,8 @@
-/* Stage */
+body{
+    background:black;
+}
 
+/* Stage */
 #stage {
     background: black;
     height: 300px;
