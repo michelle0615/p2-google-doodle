@@ -1,20 +1,9 @@
-body{
-    background:grey;
-}
 
 /* Stage */
 #stage {
     background: grey;
     height: 300px;
     width: 600px;
-}
-
-.google {
-    height: 300px;
-    width: 500px;
-    position: absolute;
-    margin-top: 50px;
-    
 }
 
 
