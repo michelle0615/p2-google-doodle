@@ -1,5 +1,11 @@
 // Paste jQuery Plugin Code Here
-//jquery=draw
+/*!
+ * jQuery DrawSVG v1.1.0 (Oct 05 2016) - http://lcdsantos.github.io/jquery-drawsvg/
+ *
+ * Copyright (c) 2016 Leonardo Santos; MIT License
+ *
+ */
+
 (function(factory) {
   /* global define */
   /* istanbul ignore next */

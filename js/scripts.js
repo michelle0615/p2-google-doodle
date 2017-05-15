@@ -1,3 +1,3 @@
-var $svg = $('#google.svg').drawsvg();
+var $svg = $('svg').drawsvg();
 
-$svg.drawsvg('animate');
+$google.drawsvg('animate');
